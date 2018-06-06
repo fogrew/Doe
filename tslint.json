@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "tslint-eslint-rules"
+  ],
+  "rules": {
+    "ter-indent": [true, 2],
+    "no-constant-condition": true
+  }
+}
